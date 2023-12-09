@@ -20,7 +20,7 @@
 <a href="https://twitter.com/hberamumcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hberamumcu" height="30" width="40" /></a>
 <a href="https://instagram.com/hberamumcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hberamumcu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCdGaPi7_v-E_iFW64Ra7_jA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasan bera mumcu" height="30" width="40" /></a>
-<a href="https://discord.gg/miyaouu516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="655062651033878559" height="30" width="40" /></a>
+<a href="https://discord.gg/poleengineering" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="655062651033878559" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

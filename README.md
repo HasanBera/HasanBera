@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Crossant](https://github.com/Pole-Engineering)
 
-- 🌱 I’m currently learning **Fusion360-Catia-CAM**
+- 🌱 I’m currently learning **Solidworks Composer-Autodesk Inventor-Solidworks Cam**
 
 - 💬 Ask me about **3D printing, Cad Designing**
 
